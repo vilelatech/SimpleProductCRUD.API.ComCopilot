@@ -1,0 +1,6 @@
+Registro inicial
+
+Template de API default do vs 2022.
+Apenas os imports de packages necessarios foram adicionados
+
+Data Hora Inicio: 15/09 - 10:40

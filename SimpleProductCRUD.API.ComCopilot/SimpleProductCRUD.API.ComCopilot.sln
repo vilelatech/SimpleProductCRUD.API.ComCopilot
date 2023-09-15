@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleProductCRUD.API.ComCopilot", "SimpleProductCRUD.API.ComCopilot\SimpleProductCRUD.API.ComCopilot.csproj", "{8494AF70-5A15-4AC7-88B5-A878CBAEAD24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8494AF70-5A15-4AC7-88B5-A878CBAEAD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8494AF70-5A15-4AC7-88B5-A878CBAEAD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8494AF70-5A15-4AC7-88B5-A878CBAEAD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8494AF70-5A15-4AC7-88B5-A878CBAEAD24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {997150E4-D3D4-4A6B-98DE-FBF4CCE7BD64}
+	EndGlobalSection
+EndGlobal
